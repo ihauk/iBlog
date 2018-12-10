@@ -180,3 +180,9 @@ featureImages:
 - /medias/featureimages/21.jpg
 - /medias/featureimages/22.jpg
 - /medias/featureimages/23.jpg
+
+lc:
+  enable: true # true|false
+  class: blog # leanclound上的class名称
+  app_id: 6PUfH6WTS1hSfzrWpklwVPUe-gzGzoHsz
+  app_key: DpEWvM4MRto6WM7Nflm4mCum
